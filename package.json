@@ -1,0 +1,26 @@
+{
+  "name": "music-share-server",
+  "version": "1.0.0",
+  "description": "The server for a music share server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avery246813579/Music-Share-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avery246813579/Music-Share-Server/issues"
+  },
+  "homepage": "https://github.com/Avery246813579/Music-Share-Server#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
